@@ -17,12 +17,6 @@ The work flow includes:
 ## Model used
 - The project used the Logistic regression model as the predictive algorithm
 
-Performance was evaluated using:
-- Accuracy
-- Precision
-- Recall
-- F1-score
-
 ## Technologies and tools used 
 This project was developed using:
 - python
